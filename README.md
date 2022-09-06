@@ -1,15 +1,24 @@
-# Hi there 👋
+### Hi there 👋, my name is Anisul Islam
+#### I am a Front End Developer
+![I am a Front End Developer](https://i.postimg.cc/tCbM79qh/banner.png)
+
+Creative Front-End Developer offering 3+ years experience providing high-impact web design solutions. Skilled in designing websites for diverse industry organizations. Aspiring to combine broad background with strong technical skills in HTML5, CSS3, SCSS, JavaScript, jQuery, Bootstrap and Wordpress as a Front-End Developer.
+
+Skills: HTML / CSS/SCSS/Bootstrap/JS/jQuery/WordPress
+
+- 🔭 I’m currently working on Upwork, Fiverr 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Design 
 
 
-**islam-anisul/islam-anisul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ islam-anisul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/the-anisul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/theanisul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/theanisul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.webriver.xyz/)  
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username= islam-anisul)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= islam-anisul)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username= islam-anisul&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/ islam-anisul)  
+
+![Profile views](https://gpvc.arturio.dev/ islam-anisul)  
