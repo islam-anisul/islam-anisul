@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Anisul Islam
-#### I am a Front End Developer
+### Hi there 👋, 
+# I'm Anisul Islam
+###### a Front End Developer
 ![I am a Front End Developer](https://i.postimg.cc/tCbM79qh/banner.png)
 
 Creative Front-End Developer offering 3+ years experience providing high-impact web design solutions. Skilled in designing websites for diverse industry organizations. Aspiring to combine broad background with strong technical skills in HTML5, CSS3, SCSS, JavaScript, jQuery, Bootstrap and Wordpress as a Front-End Developer.
