@@ -14,12 +14,8 @@ Skills: HTML / CSS/SCSS/Bootstrap/JS/jQuery/WordPress
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ islam-anisul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/the-anisul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/theanisul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/theanisul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.webriver.xyz/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username= islam-anisul)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= islam-anisul)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username= islam-anisul&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ islam-anisul)  
 
-![Profile views](https://gpvc.arturio.dev/ islam-anisul)  
